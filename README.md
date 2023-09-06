@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx-system_engineering-devops
+Shell basics Read me
